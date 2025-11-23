@@ -21,9 +21,7 @@ class Account:
         return self.balance
 
 
-# ---------------------------
-# Taking input from the user
-# ---------------------------
+#Input from the user 
 
 acc_no = input("Enter your account number: ")
 balance = float(input("Enter opening balance: "))
